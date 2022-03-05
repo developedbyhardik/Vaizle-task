@@ -1,0 +1,4 @@
+run (to test the given tesk)
+node test.mjs  
+
+implimentation is written in main.mjs file.
